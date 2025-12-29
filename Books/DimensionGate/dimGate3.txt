@@ -1,0 +1,7 @@
+gatereadings 
+// if the gate locks with the space core, you can try this command to get some info on the destination.
+// Just to be sure so you don't get fried on the other side... or worse
+
+gettemperature 
+// returns the current temperature as read from the PLC's temperature meter
+

@@ -1,0 +1,3 @@
+recalltimegate 
+// If you used the gate for time travel, the gate will use minimal power to keep the connection open.
+//If you call this command it will reopen the wormhole close to you to head back.

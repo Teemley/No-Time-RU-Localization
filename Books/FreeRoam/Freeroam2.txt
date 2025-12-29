@@ -1,0 +1,6 @@
+Guide
+
+-Step 5 Toggle the time conduction 
+and enter the date into the time table in that order "mmddyyyyhhmm"
+
+-Step 6 -The travel sequence should start at about 70 mph

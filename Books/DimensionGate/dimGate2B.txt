@@ -1,0 +1,9 @@
+wait 5
+// gives the program enough time to establish a connection
+dialgate "abcde" 
+//if a space core is inserted on top, this will send you to a location in space, 
+//it has to have 5 unique a-x digits
+
+dialgate "051120131200" 
+//with a time core inserted, this will send you to a set time. 
+//The dial order would work in the same way the time machine's time conduction did.

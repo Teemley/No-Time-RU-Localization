@@ -1,0 +1,7 @@
+The ark ore has to be formed into an alloy, which then gets incorperated into the capacitors for the core.
+---Writing a program---
+The PLC has a files function, first you create a new file, when naming the file you have to remember to put an .eee on it's end as an extension.
+Inside the file you can write a list of commands. // means comment and will be ignored by the Miniscript/AthorCode interpreter.
+---Command List---
+connectgate 
+// before using a gate in range of 20 meters, you have to call a connect command

@@ -1,0 +1,26 @@
+Halt! You violated the law. Public unrest, I will write you a ticket this time...
+Halt! You violated the law. Fleeing I see. You are under arrest sir!
+Stop you criminal scum! Hands up! You violated the law. Assaulting police officers, public unrest! You are under arrest, you have the right to remain silent!
+Halt! You instigated strange explosions with your strange vehicle?! What is this thing? You are under arrest sir!
+Sorry Officer (Pay 100$)
+Sorry Officer (Pay 200$)
+I can't pay the money! (Go to Jail)
+Fine! (Go to Jail)
+You will never get me! (Run)
+...
+My apologies (Pay 100 Shilling)
+My apologies (Pay 200 Shilling)
+Stop right there criminal scum! You violated the law. Assaulting guards, public unrest! You are under arrest!
+They always run...
+Days in total:
+Another day, another dollar for me!
+Wakey-Wakey Prisoner!
+Good Morning!
+Night is approaching! Everyone is to be in his cell by nightfall!
+Attention inmates! Back to your cells! Night is approaching!
+Capture that prisoner!
+Halt! You violated the law. Now because I want to be nice to you, I will let you go! Let this be a lesson to you!
+Won't happen again officer!
+My apologies (Pay 100 Thalers)
+My apologies (Pay 200 Thalers)
+Some men in hats came and intruced themselves as special agents. They took your car to their secret base. The car should still be visible on the world map.

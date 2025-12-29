@@ -1,0 +1,12 @@
+Welcome to the annual PINE CITY RACE. Do you want to sign up?
+I'm up for it!
+Alright just set your car at the start line. The race begins at 7:30 Sharp! If you win first place, come back to me to receive your special prize! Good luck!
+Congratulations, you've made it to first place, here is your special price!
+Congrats! You made it, however you are not first place so you won't get the special price!
+Better luck next time champ!
+You were too far from the starting point!
+Disqualified!
+Loser!
+Winner!
+Winner 1st Place!
+Round

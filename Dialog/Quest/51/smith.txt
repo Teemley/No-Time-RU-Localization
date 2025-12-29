@@ -1,0 +1,52 @@
+(Grumbling) What do you want? 
+I am looking for work.
+I could have use for a new apprentice. Are you any good for this?
+If you mean whether I can forge...
+No that was not my meaning. I can't use any weaklings around here (Takes a look at you) No offense, but you look like someone who'd break like a stick man from this hard work. And I currently don't look for good-for-nothings who bring shame to my workshop with low quality craft! Try it with the scribes or field workers before coming to me.
+No that was not my meaning. Though you do look like someone who can do the hard work, I guess I could teach you.
+Hey! I am not a good-for-nothing! I want to become a smith!
+(Laughs) Thanks for letting me know. Big words! Can you prove them with big actions?
+What is on your mind?
+Hmm, I won't force you to lift millstones to prove your manlyhood. I'd need someone bold.
+So what will it be?
+Bring me an old rusty sword of a bandit. They have been lifting them off graves and old dungeons. Outside town I've heard of them going about close to the boatshaped cave entrance in the south, and farther in the old forest.
+Bring me an old rusty sword of a bandit. They have been lifting them off graves and old dungeons. Outside town they've been spotted!
+A bandit, consider it done!
+Good! Then stop wasting words and let your actions speak!
+(Looks at you) You want to buy something? Listen I don't take good-for-nothings as apprantices. Want to prove yourself? Bring me an old rusty sword of one of those pesky bandits outside town. I want to see it on my table!
+Got your rusty sword!
+Show me! Good, fine perhaps I will be able to use you for something after all. I can use a good man around.
+So when can I start as apprentice?
+Technically right away. You will be working for me for some time. I suggest that afterwards you are to move about the lands and learn from other smiths to perfect your craft. This is how it is done! Oh and if you need sleep, there is a free bed in my house.
+Alright!
+Teach me the basics.
+Alright young boy. First you need to know how to smelt, take iron ore and smelt it there at the furnace into ingots, using the bellows. Then using these ingots, you will form a sword blank at the furnace.
+How do I make a sword? (20 Shillings)
+How do I make a viking sword? (20 Shillings)
+Teach me the making of noble viking swords (50 Shillings)
+How do I make a sword? (20 Dollars)
+Now you head to the anvil with your sword blank in hand, plan out what you want to create. Drop your future sword into the fire and heat it up. Form it into a good blade with your hammer with precise hits. Try to make the best out of it whilst the blade is hot. Finish it by cooling it off. Your first swords won't be masterpieces, but you can learn everything else later. Here, this hammer and blanks are for free!
+How do I make a noble sword? (150 Shillings)
+Patience make the master, remember this when making this sword. Every hammer beat counts and needs to land properly. These swords were used by nobility in the old times of Lechwia, craft it with care.
+How do I make a Ark ore sword? (350 Shillings)
+Ah the famed ore swords! Making ore blades is a very complex and expensive process. You have to lace the blank with the ark or make an alloy. They were used of old in the first war with the nords. It is something about the orichalcum or ark ore, that makes these swords especially resistant to damage and makes them the perfect material to be made extremely sharp!
+Can you teach me to craft sabers? (280 Shillings)
+The notorious curved form is achieved in the heat. Pay attention that the roundness of the metal does not end up looking bad once done. These types of sabers were used in the war with the north pirates long ago.
+Gætir þú kennt mér smíði (Can you teach me smithing?)
+Sanna þig sjálfan til að vera góðr í eitthvárt! Þegar einn af oss, þá tölum vér! (Prove yourself that you are good for something! Once one us, we talk!)
+Smíð, tak járn nám og smíð það þar við ofninn í ingota. Notaðu ingota, og smíð í sverð bál. (Alright smelting, take iron ore and smelt it there at the furnace into ingots. Use ingots, and smelt into sword blank).
+Nyt sverðblanka með hamri ok ávala sverð. Hita upp ok slá með hamri (Use sword blank with anvil and plan sword. Heat up and beat with hammer).
+Kongsveðr. Noti sveðr blanka með hamri ok hljóð. Hita upp ok slá með hamri varlega. Þolinmæði er meistar. (A kingly sword. Use sword blank with anvil and plan sword. Heat up and beat with hammer carefully. Patience is mastery).
+Where have you been? It's been quite some time!
+I want to sell my forged stuff!
+Good! Here is your payment!
+Come back once you got more money!
+Can you teach me smithing?
+No offense, but I'd only take you if you at least had some experience in this craft.
+How do I make a noble sword? (150 Dollars)
+Koom ruck wann Gulden (Come back once you got the money).
+Wait, where are you going? I was gonna tell you somethin!
+No that was not my meaning. I can't use any weaklings around here. (Takes a close look at you) Gain some muscles, then we talk again!
+Ek vil selja mínu smíðaðu hlutir! (Good here is your money)
+Place it on the table then!
+Setjið þá á borðið (Place it on the table!)

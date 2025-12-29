@@ -1,0 +1,126 @@
+(Looks through his goggles) That thing is vast...
+Whats my objective?
+See the two plasma turrets targeting our troops? We need to hack them! Use the SetFactionMimCore command! The port should be somewhere on the floor near the cannons.
+See the two plasma turrets targeting our troops? We need to hack them! EE-77 will go with you and hack em quick! The port should be somewhere on the floor near the cannons.
+Friends, take defensive positions!
+We need to move! ... Mîm is closing the bridge! Boogers!
+Whats the situation Edward! Are we safe to move?
+It looks okay, come on! Watch out!
+(Hides) Everyone alright? (Coughs) I thought you said it looks okay?!
+I said it LOOKS OKAY!
+...What does it look like now?
+(Shouts) Looks okay! (Runs) Come on! Move! Move!
+Boogers! We're cut off! Hmm the ravine must have connecting lines to the bridge connector on the other side! We need to climb down!
+I'll do it, hold the line!
+Use the closeperipheral command, look for an access point at the bottom! We will cover you from above! Use my grappling hook if you need it to come back up!
+Why not use jetpacks!
+Not all of us have em! Besides what about our backup? Do you want us to go onto the other side alone?
+The defensive grid is smashed! Move! 
+Turrets are down!
+Look!
+Mîm's space force is goin down! Haha!
+Open up that laser gate! See that big power conduit behind it? See if you can destroy it!
+Quick Mîm is powering up his timeline weapon!
+What's that!
+It's a BESTIAN Walker, a relic of the old future!
+What?
+Now for it! Wait for me guys!
+It is not destructible. I will draw it's attention the rest of you, into the tunnel!
+Edward, the gate is closing! Hurry!
+Lights on soldiers! Oh boogers...
+Watch out!
+Go! Go! That elevator in front leads the core! Elevator is in front! Quick! Don't wait!
+Mooove! Destroy the Core! Get to the top of this hall!
+Mîm is loading up his weapon again!
+Folks there is NO TIME to hack it, blow it up!
+Pyradome Central Core
+Good job buddy. You did it! Though you could have left the lights on! (Laughs) It is not over yet... follow me down the elevator shaft. Let's capture that bugger dwarf!
+Let's move.
+Follow me, I know the schematics.
+Follow me!
+This place was designed by machines for machines. No aesthetics, without even human basics as doorknobs and lights.
+If there is one thing I've learned by now, is that the bad guys never have a taste for architecture...
+All these machines were controlled by a kind of god. 
+A low-rent self-appointed god who calls himself Mîm.
+And now all his toys stopped...
+Err Edward!
+Those are just Mîm's spy bots. Perfect replicas of his ugly mug.
+What is this place?
+Guys do you here the rumbling noise beneath us? Doesn't sound good.
+Meta key seems to be inserted.
+Guys give me some data! Quick!
+Binary is being parsed and the logs are being decoded...
+Pine Lake, August 23rd 1971 at four in the morning.
+(Shouts) Crap!
+What's going on?
+(Angry) What?!
+It seems he anticipated losing this battle. Not good...
+Edward? Is everything alright?
+Mîm... being almost infinitely smart, was also so infinitely tricky. He knew he was losing, so he thought of a way to rig the game...
+Rig the game?
+We may have won the space wars... but there is one last battle left to fight. The most important one. The problem with time travel is, it ain't over even when it is.
+He will take you out as a youngling!
+That is, given he probably found out where I lived, someone will have to intercept him. The good thing about this machine is, it creates stable wormholes. So it ain't over yet. Even though he is in the past we can still change it due to both planes of time and space being currently connected.
+Aye we should hurry.
+I've never thought I would see this machine with my own eyes.
+What do you mean?
+This, this is giant machine we stand on is the very first, and original time machine. Well, a one to one exact replica of it.
+So Mîm was not lying?
+He did not invent it, I did! In something they, meaning him and others, call the Gold Timeline.
+Gold timeline.
+The original timeline of ours. 1971 was the year the agents arrived. And this date exactly two days after my adventure in the sewers... (Hears footsteps approaching).
+What. (Turns to the group)
+Who?
+Edward, there are rows of cell blocks. Come on, you got to see this!
+They are... they are in a time vacuum. Their time was slowed down so far, that it would take them months to move a muscle.
+Ms. Eleanor. Her cell block is empty I knew it! I should not have left her in DUUTU!
+Mîm likely took her with him, don't despair yet!
+I need to go after him!
+Patience, that ruffian is not to be played with. You will find her, we will! I promise!
+Ms. Eleanor is not here... We got to find her, we cannot come back without some good news for Luke!
+That's the detective!
+Detective!
+(Shocked) Edward... I... I failed. I tried to stop him, he outsmarted me. Wait you look different, where are your scars? Was the future, the Gold Timeline altered? Or is this just another nightmare?
+Hey you never called me by my first name! (Thinks) Wait you know about the Gold Timeline?
+(Looks at you and the rest) I see you keep the same company and friends around you, no matter the timeline. (Chuckles and becomes grave) I was not truthful with you about who I am. I am indeed from the same future, the other two agents came from.
+But you lied about being a detective from St. André?
+No... I was a detective, before the dark times. Before our islands would become The Boneyard.
+...
+We had taken St. André, defeated Crimson. But he sent back two agents of his. One of them proved to be too smart even for me to handle.
+Well... actually we are currently in deep space. This place is a replica of the Crimson Pyradome in St. André.
+We are in space? What is this crazy dwarf with delusions of grandure up to now?
+We have him tracked down he escaped to into 1971, but don't worry the wormhole is still open so we can jump in!
+This is not good friends.
+I know, he may change the outcome by taking me out of the picture.
+No that is not only it.
+If he is using this time machine, it will be prone to creating something we call a temporal plane paradox... You explained it to me once. In that other future, back where I am from. If it is not closed on this side, then we are in a load of trouble!
+Something Mîm in his infinite intelligence, might have forgotten.
+Elaborate.
+If he changes the past, our future will not change, because it is still connected by this bridge. 
+A paradox occurs, one of major proportions. I cannot predict it's outcome and it is not good that space itself is implicated in this potential paradox. We have to avoid him doing anything major at all costs!
+And we cannot close the tunnel, lest the future gets overwritten, this is our only chance to mend it.
+Well seems, Mîms plan to blow up everything might just end up happening.
+Maybe that was his plan all along, the meta key was the key to all of this alright. Though it was not the weapon itself.
+Big billy. So that's what happened to you. Finally I tracked you down.
+Sewer Cats.
+(Stares)... you stay where you are!
+Crimson... I guess this explains why the raid on our lab in Pine Lake failed. Mîm captured Crimson and altered the timeline!
+Let's not waste any more time then quick!
+Alright I set the coordinates close to Edward's house. (Uncertain) Are you guys sure this will work?
+Is the atomic weight of cobalt 58.9?
+If I succeed, you should blow this place, just like you did originally with the Crimson's pyradome. That will complete the timeline.
+Let's hope it will end this time around.
+Mr. Detective... it has been an honor.
+No, the honor was mine.
+(Turns towards the massive chrome rings) Talk about déjà vu.
+Who was that?
+I, I don't know. I thought I knew, but not this. But we might in the future...
+So what now?
+The detective was sent back to intercept Mîm before he takes my younger self. But he will need backup! Mîm is not alone.
+Let's go then!
+(Laughs) You were always the more eager one of us two! Jump into the chrome rings! Don't worry, the artificial gravity will hold you in place!
+See you in the past Paul! Now God speed, there is NO TIME!
+(Motions to activate the machine)
+Please step back a tad buddy, stand next to the others.
+Watch out, this will be bright!
+...

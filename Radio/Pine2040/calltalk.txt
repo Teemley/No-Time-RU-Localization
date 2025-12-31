@@ -1,42 +1,42 @@
-APine Radio News, here you hear all the newest happenings of Pine Island and around the world!
-AThis was the Pine Radio news, tune in next time and we will continue shortly with some of the newest tunes.
+APine Radio News, здесь вы услышите все самые свежие события Соснового Острова и всего мира!
+AЭто были новости Pine Radio, настройтесь в следующий раз, и мы вскоре продолжим самыми новыми мелодиями.
 *2042
-ADue to his failing health, Mayor Edward R. Athor steps down from office, leaving Deputy Mayor and longtime ally Jason Connor to take the reins in his stead.
-AReports say he is to spend his remaining years at the Emperor's Palace in France as a guest of King Henry. 
+AИз-за ухудшающегося здоровья мэр Эдвард Р. Атор уходит в отставку, оставляя заместителя мэра и давнего союзника Джейсона Коннора принять бразды правления вместо него.
+AСообщается, что он проведет оставшиеся годы во Дворце Императора во Франции в качестве гостя короля Генриха.
 *2087
-AFormer Mayor Edward R. Athor's health seems to be deteriorating at a rapid rate, prompting Mayor Connor and many of his close associates to make an unscheduled trip to France to visit him. 
-AAs it seems he doesn't have much longer left to live. 
+AЗдоровье бывшего мэра Эдварда Р. Атора, по-видимому, стремительно ухудшается, что вынудило мэра Коннора и многих его близких соратников совершить незапланированную поездку во Францию, чтобы навестить его.
+AПохоже, что жить ему осталось недолго.
 *2088
-AWe commorate our beloved and late Mayor Edward R. Athor, who passed away last year peacefully in his bed at the age of 91.
-ASurrounded by many of his former friends and colleagues.
-AInclude Mayor Athor in your prayers.
+AМы чтим память нашего любимого и покойного мэра Эдварда Р. Атора, который скончался в прошлом году в возрасте 91 года, мирно в своей постели.
+AВ окружении многих своих бывших друзей и коллег.
+AПомяните мэра Атора в своих молитвах.
 *2101
-AIn honor of the great work Mayor Edward R. Athor has done for his community.
-AA statue in his likeness has been erected on the plaza level in Pine City, forever memorializing who is perhaps the greatest mayor this city has ever known.
+AВ честь великой работы, которую мэр Эдвард Р. Атор проделал для своего сообщества.
+AНа уровне площади в Пайн-Сити была установлена статуя в его подобии, навсегда увековечивая того, кто, возможно, является величайшим мэром, которого когда-либо знал этот город.
 *2064
-APine Island is becoming the leader in water production on the Antillean Sea. 
+AСосновый Остров становится лидером по производству воды в Антильском море.
 *2969
-AKing Henry dies at old age during his journey and ascension to the Mount of Olives in Jerusalem. 
-ASomeone who calls himself "great leader" aspires for the throne and claims the popular approval of many.
+AКороль Генрих умирает в старости во время своего путешествия и восхождения на Елеонскую гору в Иерусалиме.
+AКто-то, называющий себя «великим лидером», претендует на трон и заявляет о народном одобрении многих.
 *
-ABlue wine is the newest popular drink on the Antillean Sea.
+AСинее вино — новейший популярный напиток в Антильском море.
 *
-AIn need of car repairs? Visit Bill's mechanic shop! Main Hoverlane Level 2!
+AНужен ремонт автомобиля? Посетите автомастерскую Билла! Главная ховер-полоса, Уровень 2!
 *
-AVisit the Archives if you are a history buff!
+AПосетите Архивы, если вы увлекаетесь историей!
 *
-AVisit Fort Dun. Take in the nature and surrounding landscape of Pine Island, feel the breeze of fresh air.
+AПосетите Форт-Дан. Насладитесь природой и окружающими пейзажами Соснового Острова, почувствуйте дыхание свежего воздуха.
 *
-AHelp replant the trees of the natural reserve in Pine Island.
+AПомогите заново посадить деревья в природном заповеднике Соснового Острова.
 *
-AEver been to the Roover Dam? It is a historical monument to behold for sure.
+AБывали на плотине Рувера? Это точно исторический памятник, на который стоит посмотреть.
 *
-AJoin Pine Island National Bank, and as a souvenir you can buy an authentic Pine Island exclusive Dollar!
+AПрисоединяйтесь к Национальному банку Соснового Острова и в качестве сувенира можете купить эксклюзивный доллар Соснового Острова!
 *
-AVisit the General Store Level 2 if for any type of need!
+AЗагляните в Универсальный магазин на Уровне 2 для любых нужд!
 *
-AVisit the Aqua Park! Sea Life up close on Level 3!
+AПосетите Аквапарк! Морская жизнь вблизи на Уровне 3!
 *
-APeople band together to clean up the maintenence level from junk! Join in!
+AЛюди объединяются, чтобы очистить технический уровень от хлама! Присоединяйтесь!
 *
 **

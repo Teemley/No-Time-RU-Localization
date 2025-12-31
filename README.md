@@ -1,9 +1,9 @@
 # No-Time-RU-Localization
-Перевод выполнен *STIRLICO* и *Trilo-Forti* при поддержке *Eyeffect*
+Перевод выполнен **STIRLICO** и **Trilo-Forti** при поддержке **Eyeffect**
 Особые благодарности:
-* *Crazylife (Павел)*
-* *Erathor*
-* *Kingston Myles*
+* **Crazylife (Павел)**
+* **Erathor**
+* **Kingston Myles**
 
 *Состояние перевода на момент 31.12.25*
 

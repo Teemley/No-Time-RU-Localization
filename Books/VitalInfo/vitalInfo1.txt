@@ -1,5 +1,5 @@
-<ENTRY>
-We got the intell that the two timetravelers mentioned by Crimson may be aware of our doings.
-<ENTRY>
-MR. Crimson ordered to make the first test runs soon.
-<NEXT PAGE>
+<ЗАПИСЬ>
+Получена информация о том, что два путешественника во времени, упомянутые Кримсоном, могут быть осведомлены о нашей деятельности.
+<ЗАПИСЬ>
+Господин Кримсон отдал приказ в ближайшее время приступить к первым тестовым запускам.
+<СЛЕДУЮЩАЯ СТРАНИЦА>

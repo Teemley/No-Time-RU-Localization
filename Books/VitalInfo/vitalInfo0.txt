@@ -1,9 +1,9 @@
---ORDERED PRINT--
+--РАСПЕЧАТАНО ПО ПРИКАЗУ--
 
-<ENTRY>
-Take the guards out of Entrance A. No one is supposed to enter the area.
+<ЗАПИСЬ>
+Вывести охрану с входа А. Вход в зону должен быть полностью запрещён.
 
-<ENTRY>
-MR. Crimson ordered to speed up the work on C.O.R.E. It is to be fully active by spring 1990.
+<ЗАПИСЬ>
+Господину Кримсону приказано ускорить работы над проектом C.O.R.E. Система должна быть полностью введена в эксплуатацию к весне 1990 года.
 
-<NEXT PAGE>
+<СЛЕДУЮЩАЯ СТРАНИЦА>

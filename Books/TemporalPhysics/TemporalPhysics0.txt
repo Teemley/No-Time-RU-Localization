@@ -1,12 +1,13 @@
-This is book was specifically made for you my dear friend.
-To remind you of the rules of the time machines functions.
-In case you get lost, who knows where or when...
+Эта книга была создана специально для тебя, мой дорогой друг,
+чтобы напомнить о правилах работы машины времени.
+На случай, если ты потеряешься, кто знает где или когда…
 
-Chapter 1: Worst Case Scenario
-You got no reactor or fuel cell?
--If your reactor is inserted, remove it
- rotate the crank in the slot manually till the caps
- reach 100%.
-You lost your car?
--My GPS satelite was dispatched in orbit to 5000bc!
- It tracks the cars position via GPS.
+Глава 1: Наихудший сценарий
+У тебя нет реактора или топлива?
+-Если реактор вставлен, извлеки его 
+ вручную поверни рукоятку в слоте, пока индикаторы не 
+ достигнут 100%.
+
+Потерял машину?
+-Мой GPS-спутник был выведен на орбиту в 5000 году до н.э.!
+ Он отслеживает положение машины через GPS.

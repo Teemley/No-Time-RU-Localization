@@ -1,8 +1,8 @@
-Chapter 5:
+Глава 5:
 
-Precognitive Arcade
+Предсказательный аркадный автомат
 
-The local 6/12, sports an arcade for those in need of some gaming in their freetime.
+В местном магазине 6/12 стоит игровой автомат - для тех, кому хочется немного поиграть в свободное время.
 
-The machine itself looks normal, but for one thing.
-Its ability to display the score of its future players, before they reached this high score.
+Сам по себе он выглядит вполне обычным, за одним исключением одной вещи.
+Он способен отображать рекорды своих будущих игроков ещё до того, как они действительно наберут этот высокий счёт.

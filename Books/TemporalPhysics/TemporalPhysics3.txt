@@ -1,10 +1,10 @@
-Here is a list of different system features!
+Вот список различных функций системы!
 
-WORLD MAP
--Based on real time gps data from ED 4000 currently in orbit!
-JOURNAL/DATA
--"Active" shows your current Tasks! "Over" displayes your solved or failed tasks!
--The File tabs allows you to make your custom personal notes or even write programs!
-STATS
--Mainly to watch your caffeine intake, at least you're not drinking as much Soda Perfect anymore.
-That stuff is pure acid man! Should be used for cleaning clogged sewer pipes at best.
+КАРТА МИРА
+-Основана на данных GPS в реальном времени от ED 4000, который сейчас находится на орбите!
+ДНЕВНИК
+-"Активно" показывают твои текущие задачи! "Завершёно" отображают решённые или проваленные задачи!
+-Вкладки файлов позволяют создавать свои личные заметки или даже писать программы!
+ХАРАКТЕРИСТИКИ
+-В основном для отслеживания потребления кофеина. По крайней мере, теперь ты не пьёшь так много Soda Perfect.
+Эта штука - чистая кислота, дружище! Максимум её можно использовать для прочистки забитых канализационных труб.

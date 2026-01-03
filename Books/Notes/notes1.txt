@@ -1,5 +1,5 @@
-Guide
+Инструкция
 
-Step 3: Check the reactor temperature. If it is above 300F activate the Reactor coolant.
-Step 4: Activate the Reactor, green button to your right.
+Шаг 3: Проверьте температуру реактора. Если она выше 300F, то активируйте охлаждение.
+Шаг 4: Активируйте реактор зелёной кнопкой справа от вас.
 

@@ -1,8 +1,7 @@
-<ENTRY>
-The transport is made ready.
-We set the date to November 20th 1945
-05:00 AM.
-The course is set the northern part of this island.
+<ЗАПИСЬ>
+Транспорт подготовлен
+Мы выставили дату на ноябрь 20-го 1945
+05:00 утра.
+Курс проложен к северной части этого острова.
 
-<END OF LOG>
- 
+<КОНЕЦ ЛОГА>

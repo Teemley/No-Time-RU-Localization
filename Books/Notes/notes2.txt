@@ -1,4 +1,4 @@
-Step 5: Toggle time conduction lever to your right.
-Step 6: Interact with time display.
-Step 7: Type in the target in numbers "mmddyyyyhhmm". Aftewards enter or Confirm button.
-Step 8: The travel sequence starts at 70 mph.
+Шаг 5: Поверните рычаг управления временем справа.
+Шаг 6: Взаимодействуйте с экраном.
+Шаг 7: Введите целевое значение в цифрах "ммддггггччмм". Затем нажмите Enter или кнопку Подтвердить.
+Шаг 8: Путешествие берёт старт при скорости 70 миль в час.

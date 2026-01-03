@@ -1,10 +1,10 @@
---THIS IS A PRINT FROM ORDER #13--
+--ЭТО РАСПЕЧАТКА ПРИКАЗА #13--
 
-<ENTRY>
-We have the prisoner relocated to Fort Dun 1945 [Time Redacted].
-A civilian has been captured in Fort Dun 1945 [Time Redacted]. Taking pictures of our base.
+<ЗАПИСЬ>
+Мы перевели заключенного в Форт Дан 1945 [Время Скрыто].
+Захвачен житель в Форте Дан 1945 [Время Скрыто]. Снимающего снимки нашей базы.
 
-<ENTRY>
-Mr. Athor and his Collegue have been relocated to City I 2019.
+<ЗАПИСЬ>
+Г-н Автор и его коллега переведены в Город I 2019.
 
-<NEXT PAGE>
+<СЛЕДУЮЩАЯ СТРАНИЦА>

@@ -1,6 +1,6 @@
-Guide
+Инструкция
 
--Step 5 Toggle the time conduction 
-and enter the date into the time table in that order "mmddyyyyhhmm"
+-Шаг 5 Поверните рычаг управления временем
+и напишите дату на временном табло в таком виде: "ммддггггччмм"
 
--Step 6 -The travel sequence should start at about 70 mph
+-Шаг 6 -Путешествие берёт старт при скорости 70 миль в час

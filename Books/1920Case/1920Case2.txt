@@ -1,8 +1,8 @@
-<DETECTIVE>
-Please respond.
+<ДЕТЕКТИВ>
+Пожалуйста, ответьте.
 
-<MR. FALLONE>
-I… I am sorry. Err, Sir K. B. Crimson is an upstanding citizen in his own right. It was just a slip up…
+<МИСТЕР ФАЛЛОНЕ>
+Я... Я.. Мне жаль. Э-э, Сэр К. Б. Кримсон сам по себе добропорядочный гражданин. Я просто оговорился...
 
-<DETECTIVE>
-I see then. Well this slip up is giving me reason to keep you here a little longer for questioning.
+<ДЕТЕКТИВ>
+Понятно. Что ж, из-за этой оговорки я вынужден задержать вас для допроса.

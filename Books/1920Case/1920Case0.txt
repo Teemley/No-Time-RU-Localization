@@ -1,11 +1,11 @@
-–THIS IS A PRINT FROM CASE #41–
-  –Time [Redacted] - 1923
-–Detective Westwood–
-  –Interviewed: Adriano Fallone–
+--ЭТО РАСПЕЧАТКА ИЗ ДЕЛА #41--
+  –Время [ДАННЫЕ УДАЛЕНЫ] - 1923
+–Детектив Вествуд–
+  –Допрашиваемый: Адриано Фаллоне–
 
-<EXPOSITION>
-After the scene of a shooting was discovered, the suspect A. Fallone is being questioned.
+<ЭКСПОЗИЦИЯ>
+После обнаружения места перестрелки подозреваемый А. Фаллоне был допрошен.
 
-<DETECTIVE>
-Mr. Fallone, after what we found out on February 12th, we’d like to ask you what your involvement was
- with the Rampone Gang. Can you give me any Information on the recent shooting, resulting in two men shot dead?
+<Детектив>
+Мистер Фаллоне, после того, что мы узнали 12 февраля, мы хотели бы спросить вас, какое отношение
+вы имели к банде Рэмпоун.Можете ли вы предоставить мне какую-либо информацию о недавней перестрелке, в результате которой были убиты двое мужчин?

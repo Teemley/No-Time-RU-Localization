@@ -1,8 +1,9 @@
-<SHERIFF>
-After a lengthy interrogation I managed to deduct that the thieves have been hiding underneath the well known waterfall in the west. 
-That is when I ambushed and defeated the 20 bandits and their boss.
-My new friend helped me in the ambush by his clever distraction.
-I recovered a load of <REDACTED> material from the cave.
-All the captured bandits are to be relocated to Isla de los tontos charged for robbery.
-By the speedy aid of my friend, their attempt to escape with the stolen treasure was halted.
-The treasure was recovered after me and my colleague halted at byroad.
+<ШЕРИФ>
+После долгих допросов мне удалось выяснить, что воры прятались под знаменитым водопадом на западе.
+Там я устроил засаду и разгромил банду из 20 человек вместе с их главарем.
+Мой новый друг помог мне устроить засаду, ловко отвлекши внимание бандитов.
+Я вынес целый груз <ДАННЫЕ УДДАЛЕНЫ> из пещеры.
+Все пойманные бандиты будут отправлены на Остров дураков по обвинению в грабеже.
+Благодаря быстрой помощи моего друга их попытка сбежать с украденными сокровищами была пресечена.
+Сокровища были возвращены после того, как мы с напарником остановились на обочине.
+

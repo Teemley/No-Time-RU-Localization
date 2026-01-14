@@ -1,10 +1,11 @@
---THIS IS A PRINT FROM CASE #11--
---Time [Redacted] - 1871--
---Sheriff Westwood--
+--ЭТО РАСПЕЧАТКА ИЗ ДЕЛА #11--
+--Время [ДАННЫЕ УДДАЛЕНЫ] - 1871--
+--Шериф Вествуд--
 
-<EXPOSITION>
-The robbery occured March 15th 1871 at 1:20 PM
+<ЭКСПОЗИЦИЯ>
+Ограбление датируется 15 Марта 1871 года в 13:20
 
-<SHERIFF>
-I arrived too late to secure any of the loot at that point however I managed to apprehend one of the intruders.
-That is when I met a person involved, he called himself time sheriff. I invited my future helper to the office.
+<ШЕРИФ>
+Я прибыл слишком поздно, чтобы забрать какую-либо добычу, но зато мне удалось задержать одного из злоумышленников.
+Тогда-то я и познакомился с человеком, который называл себя шерифом времени. Я пригласил своего будущего помощника в участок.
+

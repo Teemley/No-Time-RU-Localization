@@ -1,9 +1,10 @@
---THIS IS A PRINT FROM CASE #11--
---Time [Redacted] - 1871--
---Sheriff Westwood--
+--ЭТО РАСПЕЧАТКА ИЗ ДЕЛА #11--
+--Время [ДАННЫЕ УДДАЛЕНЫ] - 1871--
+--Шериф Вествуд--
 
-<EXPOSITION>
-The robbery at pine island national bank occured March 15th 1871 at 1:20 PM
+<ЭКСПОЗИЦИЯ>
+Ограбление в Национальном банке Соснового острова датируется 15 Марта 1871 года в 13:20
 
-<SHERIFF>
-I arrived too late to secure any of the loot at that point however I managed to apprehend one of the intruders.
+<ШЕРИФ>
+Я прибыл слишком поздно, чтобы забрать какую-либо добычу, но зато мне удалось задержать одного из злоумышленников.
+

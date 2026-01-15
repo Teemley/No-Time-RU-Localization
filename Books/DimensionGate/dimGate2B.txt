@@ -1,9 +1,9 @@
 wait 5
-// gives the program enough time to establish a connection
+// дает программе достаточно времени для установления соединения
 dialgate "abcde" 
-//if a space core is inserted on top, this will send you to a location in space, 
-//it has to have 5 unique a-x digits
+//если сверху будет вставлено пространственное ядро, это отправит вас в определенное место в космосе,
+//в нем должно быть 5 уникальных цифр от a до x
 
 dialgate "051120131200" 
-//with a time core inserted, this will send you to a set time. 
-//The dial order would work in the same way the time machine's time conduction did.
+//при вставленном временном интервале это отправит вас в заданное время.
+//Порядок набора номера будет работать таким же образом, как и при проведении времени в машине времени.

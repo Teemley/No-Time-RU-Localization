@@ -1,7 +1,7 @@
-The ark ore has to be formed into an alloy, which then gets incorperated into the capacitors for the core.
----Writing a program---
-The КПК has a files function, first you create a new file, when naming the file you have to remember to put an .eee on it's end as an extension.
-Inside the file you can write a list of commands. // means comment and will be ignored by the Miniscript/AthorCode interpreter.
----Command List---
+Руда ковчега должна быть преобразована в сплав, который затем вводится в конденсаторы для ядра.
+---Написание программы---
+В КПК есть функция работы с файлами, сначала вы создаете новый файл, при присвоении имени файлу вы должны не забыть указать .eee в его конце в качестве расширения.
+Внутри файла вы можете записать список команд. // означает комментарий и будет проигнорирован интерпретатором Miniscript/AthorCode.
+---Список команд---
 connectgate 
-// before using a gate in range of 20 meters, you have to call a connect command
+// прежде чем использовать ворота, на расстоянии 20 метров вы должны вызвать команду подключения

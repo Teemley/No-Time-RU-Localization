@@ -1,3 +1,3 @@
-Dialing xxxxx or, 2424242424, would cause an integer overload which would in turn reroute to the default address and dial back to earth.
-The core had to be built out of Ark Alloy, a rare material found on the continent of antillia and surrounding places like pine island, a high rate of energy capacity. I found some traces of ark ore around the fort dun region, however I've heard that the national reserve also contains amounts of ark ore.
-Mining it there would be probably illegal, so logically I would have to do it during the night if I have to get more... 
+Набор номера xxxxx или 2424242424 приведет к перегрузке целого числа, что, в свою очередь, приведет к перенаправлению на адрес по умолчанию и возврату на землю.
+Ядро должно было быть изготовлено из сплава Ковчега, редкого материала, найденного на континенте Антилия и в близлежащих местах, таких как Пайн айленд, обладающего высокой энергетической емкостью. Я нашел некоторые следы руды ковчега в районе Форта-Дан, однако я слышал, что в национальном заповеднике также содержится большое количество руды ковчега.
+Добывать его там, вероятно, было бы незаконно, так что, по логике вещей, мне пришлось бы делать это ночью, если я хочу добыть еще...

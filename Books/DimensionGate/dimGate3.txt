@@ -1,7 +1,7 @@
 gatereadings 
-// if the gate locks with the space core, you can try this command to get some info on the destination.
-// Just to be sure so you don't get fried on the other side... or worse
+//Если врата закрываются с помощью space core, вы можете попробовать эту команду, чтобы получить некоторую информацию о пункте назначения.
+//Просто на всякий случай, чтобы тебя не поджарили с другой стороны... или чего похуже
 
 gettemperature 
-// returns the current temperature as read from the КПК's temperature meter
+//Возвращает текущую температуру, считываемую с термометра КПК
 

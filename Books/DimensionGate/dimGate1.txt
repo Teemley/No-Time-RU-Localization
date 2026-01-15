@@ -1,3 +1,3 @@
-In theory the gate would pin point a location of gravity. The point would have been calculated out of five digits composing a unique id for the destinataion.
-This method proved extremely crude, as the program at that time included a value of 24, or A-X in digits, which would target any future gate in the ape head cluster. 
-The only problem was, that while you could connect a wormhole to the ape head cluster, none of the 24 stars would intersect with our suns location. I however found out, that my code had a logic hole in it, which would have even allowed the prototype device to dial back home.
+Теоретически, ворота должны были точно указывать точку притяжения. Точка была бы рассчитана из пяти цифр, составляющих уникальный идентификатор пункта назначения.
+Этот метод оказался чрезвычайно грубым, поскольку в то время программа включала значение 24, или A-X в цифрах, которое предназначалось для любых будущих врат в созвездии Обезьяней головы.
+Единственная проблема заключалась в том, что, хотя вы могли бы подключить червоточину к скоплению обезьянья голова, ни одна из 24 звезд не пересекалась бы с местоположением наших солнц. Однако я обнаружил, что в моем коде была логическая дыра, которая даже позволила бы прототипу устройства перезвонить домой.

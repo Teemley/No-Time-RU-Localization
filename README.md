@@ -4,6 +4,7 @@
 * **Crazylife (Павел)**
 * **Erathor**
 * **Kingston Myles**
+* **Teemley**
 
 *Состояние перевода на момент 14.01.26*
 

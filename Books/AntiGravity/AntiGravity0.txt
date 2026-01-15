@@ -1,5 +1,5 @@
-Anti-gravity is a recurring concept in science fiction. Up to recently thought as a dream of the far future.
-Nowadays a part of our common lives, how did the invention of this magical machine come to be?
+Антигравитация - часто встречающаяся концепция в научной фантастике. До недавнего времени считалось, что это мечта о далеком будущем.
+В наши дни это волшебное изобретение стало частью нашей обычной жизни, так как же произошло изобретение этой волшебной машины?
 
-Chapter 1: Biefeld-Brown Effect
-The "Biefeld–Brown effect" was named after Thomas Townsend Brown who observed an enigmatic lifting force whilst experimenting with X-ray tubes during the 1920s. With the application of voltage to an asymmetrical capacitor. Originally thought as some sort of antigravity, the word electrogravitics was coined as a result. The actual explanation was that the air would ionize between the two electrodes, moving and creating thrust.
+Глава 1: Эффект Бифельда-Брауна
+"Эффект Бифельда-Брауна" был назван в честь Томаса Таунсенда Брауна, который наблюдал загадочную подъемную силу, экспериментируя с рентгеновскими трубками в 1920-х годах. При подаче напряжения на асимметричный конденсатор. Первоначально считалось, что это своего рода антигравитация, и в результате появилось слово "электрогравитация". Фактическое объяснение состояло в том, что воздух ионизировался между двумя электродами, перемещаясь и создавая тягу.

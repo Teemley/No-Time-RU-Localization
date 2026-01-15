@@ -1,4 +1,4 @@
-The first prototype of the modern G-Field Brown Generator was an 128 by 128 array of micro chips, with a total size of 16cm².
-The first ACMA - Assymetric Capacitor Micro Array
-The charge up took a while, but with that capacity of that chip the sky was the limit!
-With the first successful test lifted a weight of 8 kilos.
+Первый прототип современного генератора G-Field Brown представлял собой массив микросхем размером 128 на 128 дюймов, общим размеро 16см².
+Первая ACMA - ассиметричная конденсаторная микросхема
+Зарядка заняла некоторое время, но при такой емкости этого чипа это был предел возможностей!
+При первом успешном испытании был поднят вес в 8 килограммов.
